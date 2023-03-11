@@ -1,2 +1,5 @@
-# gamf-web1-la02
-GAMF kávéimádók appja
+# Meleg Ölelés nyugdíjas otthon
+
+## Oldalak
+- Home: nyitólap, szolgáltatások, bemutatkozás
+- Room: szobák, bérlési szabályok
